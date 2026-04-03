@@ -1,9 +1,8 @@
 ## Igx-Cipher
----
-Hey I'm igx,
-**Network Engineer | SDN Enthusiast | Cybersecurity Learner | Rust Programmer**
 
----
+Hey I'm igx,
+
+**Network Engineer | SDN Enthusiast | Cybersecurity Learner | Rust Programmer**
 
 ## 🧠 About Me
 
