@@ -1,20 +1,31 @@
-## Igx-Cipher
+# Igx-Cipher
 
-Hey I'm igx,
-
-**Network Engineer | SDN Enthusiast | Cybersecurity Learner | Rust Programmer**
-
-## 🧠 About Me
-
-* 🔭 Currently building: **SDN-based Smart Campus Network & Load Balancer**
-* 🌐 Strong interest in **Computer Networks, SDN, and SD-WAN**
-* 🔐 Exploring **Cybersecurity fundamentals & offensive security concepts**
-* 🦀 Learning **Rust for systems programming & secure networking tools**
-* 🐧 Daily driving **Linux (Arch + KDE)**
-
-> I believe the best way to learn networking is not by reading — but by **building and breaking networks**.
+Build it. Break it. Secure it.
 
 ---
+
+Hey, I'm igx
+
+```bash id="xk29ab"
+Designing and experimenting with networks, focusing on SDN and SD-WAN  
+Learning cybersecurity while building secure, high-performance tools using Rust
+```
+
+---
+
+## About Me
+
+* 🔭 Currently working on an SDN-based smart campus network and a dynamic load balancer
+* 🌐 Strong interest in computer networks and software-defined networking
+* 🔐 Exploring cybersecurity through practical, real-world concepts
+* 🦀 Using Rust to build secure and efficient networking tools
+* 🐧 Daily environment: Arch Linux with KDE
+
+---
+
+## Philosophy
+
+Learn networking by building systems, breaking them, and understanding why they fail.
 
 
 <!--
