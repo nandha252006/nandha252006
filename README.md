@@ -6,7 +6,7 @@ Hey, I'm igx
 Designing and experimenting with networks, focusing on SDN and SD-WAN  
 Learning cybersecurity while building secure, high-performance tools using Rust
 
-## About Me
+### About Me
 
 * 🔭 Currently working on an SDN-based smart campus network and a dynamic load balancer
 * 🌐 Strong interest in computer networks and software-defined networking
@@ -14,7 +14,7 @@ Learning cybersecurity while building secure, high-performance tools using Rust
 * 🦀 Using Rust to build secure and efficient networking tools
 * 🐧 Daily environment: Arch Linux with KDE
 
-Learning concepts by building systems, breaking them, and understanding why they fail.
+##### Learning concepts by building systems, breaking them, and understanding why they fail.
 
 
 <!--
