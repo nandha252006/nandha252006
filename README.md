@@ -1,4 +1,4 @@
-# Igx-Cipher
+# Igx-Solixx
 
 Build it. Break it. Secure it.
 
