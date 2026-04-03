@@ -16,7 +16,6 @@ Learning cybersecurity while building secure, high-performance tools using Rust
 
 ##### Learning concepts by building systems, breaking them, and understanding why they fail.
 
-
 <!--
 **nandha252006/nandha252006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
