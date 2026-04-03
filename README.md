@@ -2,16 +2,9 @@
 
 Build it. Break it. Secure it.
 
----
-
 Hey, I'm igx
-
-```bash id="xk29ab"
 Designing and experimenting with networks, focusing on SDN and SD-WAN  
 Learning cybersecurity while building secure, high-performance tools using Rust
-```
-
----
 
 ## About Me
 
@@ -21,11 +14,7 @@ Learning cybersecurity while building secure, high-performance tools using Rust
 * 🦀 Using Rust to build secure and efficient networking tools
 * 🐧 Daily environment: Arch Linux with KDE
 
----
-
-## Philosophy
-
-Learn networking by building systems, breaking them, and understanding why they fail.
+Learning concepts by building systems, breaking them, and understanding why they fail.
 
 
 <!--
