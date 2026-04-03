@@ -1,8 +1,8 @@
-# Igx-Solixx
+# Igx-Solix
 
 Build it. Break it. Secure it.
 
-Hey, I'm igx
+Hey, I'm igx-solix
 Designing and experimenting with networks, focusing on SDN and SD-WAN  
 Learning cybersecurity while building secure, high-performance tools using Rust
 
